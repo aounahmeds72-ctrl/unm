@@ -1,6 +1,6 @@
 /* Ledger — Production‑Grade Double Entry Accounting */
-const SUPABASE_URL = 'https://your-project.supabase.co';
-const SUPABASE_ANON_KEY = 'your-anon-key-here';
+const SUPABASE_URL = 'https://hubcmldbztdsxxqsoebo.supabase.co';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh1YmNtbGRienRkc3h4cXNvZWJvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ2MzA2MTcsImV4cCI6MjA5MDIwNjYxN30.jevxOC3NeKqM16MUCcpy4NznWH8DausdYcjyHsJcuu8';
 const CURRENCY = '₨';
 const PAGE_SIZE = 20;
 const PINNED_KEY = 'ledger_pinned_accounts';
